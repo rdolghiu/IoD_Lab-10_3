@@ -4,3 +4,5 @@ regex
 scikit-learn>=1.4.0
 joblib>=0.17.0
 streamlit==1.36.0
+pillow==10.2.0
+
